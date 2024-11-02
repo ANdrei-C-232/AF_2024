@@ -1,0 +1,8 @@
+﻿  Tema1.cpp
+  Generating code
+D:\Facultate\Anul2\Sem1\AF\Tema1\Tema1.cpp(89): warning C4715: 'binarySearch': not all control paths return a value
+  38 of 333 functions (11.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tema1.vcxproj -> D:\Facultate\Anul2\Sem1\AF\Tema1\x64\Release\Tema1.exe

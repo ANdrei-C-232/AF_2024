@@ -1,0 +1,3 @@
+﻿  Tema1.cpp
+D:\Facultate\Anul2\Sem1\AF\Tema1\Tema1.cpp(110,1): warning C4715: 'binarySearch': not all control paths return a value
+  Tema1.vcxproj -> D:\Facultate\Anul2\Sem1\AF\Tema1\x64\Debug\Tema1.exe
